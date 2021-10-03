@@ -67,8 +67,7 @@ To do in project.
    ```sh
    multiplesensorw2.ino
    ```
-4. Add file abc.hex(was built by file multiplesensorw2.ino) to Aruino 
-  in this file named:
+4. Add file abc.hex(was built by file multiplesensorw2.ino) to Aruino, this file named:
    ```sh
    multiplesensorw2.hex
    ```
