@@ -30,6 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 There are Connecting Multiple Ultrasonic Sensors with Arduino Mega Project. This project is simulated in Proteus.
 
 In this:
@@ -89,4 +90,4 @@ To do in project.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: Images/Design.png
+[product-screenshot]: Images/Design.PNG
