@@ -29,7 +29,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]]
+[![Product Name Screen Shot] product-screenshot]
 
 There are Connecting Multiple Ultrasonic Sensors with Arduino Mega Project. This project is simulated in Proteus.
 
