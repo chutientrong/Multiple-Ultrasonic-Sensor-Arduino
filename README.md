@@ -38,7 +38,7 @@ In this:
 * Load hex file to Aduino and Press run.
 * Results of distance which is measured by sensor HC-SR04 are displayed in terminal. :smile:
 
-Go to the `mage` to see more.
+Go to the `Images` to see more.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
