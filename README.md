@@ -2,6 +2,15 @@
 <br />
 <div align="center">
   <h3 align="center">Multiple-Ultrasonic-Sensor-Arduino</h3>
+  <p align="center">
+    
+    <br />
+    <a href="https://github.com/chutientrong/Multiple-Ultrasonic-Sensor-Arduino">View Demo</a>
+    ·
+    <a href="https://github.com/chutientrong/Multiple-Ultrasonic-Sensor-Arduino/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/chutientrong/Multiple-Ultrasonic-Sensor-Arduino/issues">Request Feature</a>
+  </p>
 </div>
 
 
@@ -21,9 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 There are Connecting Multiple Ultrasonic Sensors with Arduino Mega Project. This project is simulated in Proteus.
 
 In this:
@@ -80,4 +87,18 @@ To do in project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: Images/Design.png
