@@ -1,21 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Multiple-Ultrasonic-Sensor-Arduino</h3>
-  <p align="center">
-    
-    <br />
-    <a href="https://github.com/chutientrong/Multiple-Ultrasonic-Sensor-Arduino">View Demo</a>
-    ·
-    <a href="https://github.com/chutientrong/Multiple-Ultrasonic-Sensor-Arduino/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/chutientrong/Multiple-Ultrasonic-Sensor-Arduino/issues">Request Feature</a>
-  </p>
-</div>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
 <h3 align="center">Multiple-Ultrasonic-Sensor-Arduino</h3>
   <p align="center">
     project_description
